@@ -17,4 +17,4 @@ Source : Kaggle
    Marketing Optimizations : Car sellers as well as car company use this dashboard to analyze thie car sells.
    Strategic Expansion : car company can increase or decrease production of selective models by analyzing this dashboards data.
 ### Screenshot & Demo
-Carsales Dashboard look like : 
+Carsales Dashboard look like : https://github.com/7HarshModi/CarSalesDashboard/blob/main/CarSalesDashboard.png
